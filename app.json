@@ -2,7 +2,8 @@
   "expo": {
     "name": "my-goals",
     "slug": "my-goals",
-    "version": "1.0.0",
+    "version": "1.0.0",git push -u origin main
+
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
@@ -14,7 +15,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#329da8"
       }
     },
     "web": {
